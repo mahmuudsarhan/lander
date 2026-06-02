@@ -20,3 +20,19 @@ You control a spacecraft to land on the moon without smashing it like a meteor (
 3. Throw down a random number, hit Enter, and start playing
 
 ### For players (Non-Windows OS)
+1. You will find it on itch.io and use an emulator (〜￣▽￣)〜 **[Lander](https://mahmuudsarhan.itch.io/lander)**
+2. **Pro-Tip:** Run it via the official **[Itch.io Desktop App](https://itch.io)**. It automatically configures a compatibility layer to run this native Windows console application flawlessly on macOS or Linux.
+
+---
+
+# How it works
+
+## The Boring Mathematical Logic
+No Risk No Fun, to survive it, you should free fall then at the right moment, start burning fuel like crazy
+
+Where:
+* **Maximum Thrust Capacity:** $20 \text{ fuel units} \times 0.4 \text{ thrust coefficient} = 8.0 \text{ upward acceleration}$.
+* **Net Deceleration Pull:** $6.38 \text{ m/s}^2$ after factoring out the native planetary gravity resistance.
+
+## Warning
+If the fuel reached ZERO, you will free fall till you crash
