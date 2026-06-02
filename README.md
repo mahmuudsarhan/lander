@@ -18,10 +18,11 @@ You control a spacecraft to land on the moon without smashing it like a meteor (
 1. Download `lander.exe`
 2. Launch the file (It will open the terminal automatically)
 3. Throw down a random number, hit Enter, and start playing
+4. You will find it on itch.io and use an emulator (〜￣▽￣)〜 **[Lander](https://mahmuudsarhan.itch.io/lander)**
 
 ### For players (Non-Windows OS)
-1. You will find it on itch.io and use an emulator (〜￣▽￣)〜 **[Lander](https://mahmuudsarhan.itch.io/lander)**
-2. **Pro-Tip:** Run it via the official **[Itch.io Desktop App](https://itch.io)**. It automatically configures a compatibility layer to run this native Windows console application flawlessly on macOS or Linux.
+**Use an emulator**
+
 
 ---
 
